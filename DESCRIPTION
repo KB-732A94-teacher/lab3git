@@ -6,6 +6,6 @@ Date: 2017-09-15
 Author: Josh Hyungyum Kim
 Maintainer: Josh Hyungyum Kim <gyommy15@gmail.com>
 Description: euclidean function takes two numeric integer and calculate GCD(greatest common divisor, dijkstra function takes data.frame and initial node to calculate shortest path from the initial node to destination node
-License: MIT + file LICENSE
+License: MIT
 RoxygenNote: 6.0.1
 Suggests: testthat
