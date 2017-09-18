@@ -9,3 +9,4 @@ Description: euclidean function takes two numeric integer and calculate GCD(grea
 License: MIT
 RoxygenNote: 6.0.1
 Suggests: testthat
+LazyData: true
