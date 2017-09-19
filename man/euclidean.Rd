@@ -18,5 +18,5 @@ GCD(Greatest Common Divisor) of x and y
 Calculate Greatest Common Dvisor(GCD) for two input variables
 }
 \references{
-https://en.wikipedia.org/wiki/Euclidean_algorithm
+\url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 }

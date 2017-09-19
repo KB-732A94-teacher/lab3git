@@ -18,5 +18,5 @@ Solution of the Dijkstra algorithm from the given initial node
 Applying Dijkstra algorithm to a given graph and initial node
 }
 \references{
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+\url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
 }

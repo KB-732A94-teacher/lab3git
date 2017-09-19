@@ -8,7 +8,7 @@
 #' @param x A number(integer)
 #' @param y A number(integer)
 #' @return GCD(Greatest Common Divisor) of x and y
-#' @references https://en.wikipedia.org/wiki/Euclidean_algorithm
+#' @references \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 
 euclidean <- function (x,y){
   
