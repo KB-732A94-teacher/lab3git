@@ -8,13 +8,8 @@
 \description{
 \packageDescription{dieu}
 }
-\details{
+\details{ conduct euclidean and dikstra algorithm for given input
 
-The DESCRIPTION file:
-\packageDESCRIPTION{dieu}
-\packageIndices{dieu}
-~~ An overview of how to use the package, including the most ~~
-~~ important functions ~~
 }
 \author{
 \packageAuthor{dieu}
@@ -22,11 +17,12 @@ The DESCRIPTION file:
 Maintainer: \packageMaintainer{dieu}
 }
 \references{
-~~ Literature or other references for background information ~~
+Euclidean algorithm: \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
+ 
+Dijkstra algorithm: \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
 }
 \keyword{ package }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
 }
 \examples{
 }
