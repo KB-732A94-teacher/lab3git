@@ -9,6 +9,7 @@
 #' @param init_node Numeric representation of initial node
 #' @return Solution of the Dijkstra algorithm from the given initial node
 #' @references \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
+#' @export dijkstra
 
 dijkstra <- function(graph, init_node){
   
