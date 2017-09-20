@@ -9,6 +9,7 @@
 #' @param y A number(integer)
 #' @return GCD(Greatest Common Divisor) of x and y
 #' @references \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
+#' @export euclidean
 
 euclidean <- function (x,y){
   

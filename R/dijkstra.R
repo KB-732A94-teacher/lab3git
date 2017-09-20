@@ -8,7 +8,7 @@
 #' @param graph A data.frame that contains 3 vectors named v1, v2, w
 #' @param init_node Numeric representation of initial node
 #' @return Solution of the Dijkstra algorithm from the given initial node
-#'
+#' @export dijkstra
 #' @references \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
 
 dijkstra <- function(graph, init_node){
