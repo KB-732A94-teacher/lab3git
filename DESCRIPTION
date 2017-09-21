@@ -3,7 +3,7 @@ Type: Package
 Title: Eculidean and Dijkstra algorithm
 Version: 1.0
 Date: 2017-09-15
-Author: Josh Hyungyum Kim
+Author: Josh Hyungyum Kim, Ramazan Kartal
 Maintainer: Josh Hyungyum Kim <gyommy15@gmail.com>
 Description: euclidean function takes two numeric integer and calculate GCD(greatest common divisor, dijkstra function takes data.frame and initial node to calculate shortest path from the initial node to destination node
 License: MIT
